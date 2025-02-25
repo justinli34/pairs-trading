@@ -1,1 +1,1 @@
-Trading Bitcoin ETFs with reinforcement learning
+Trading Bitcoin related assets with reinforcement learning
